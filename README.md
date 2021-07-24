@@ -1,2 +1,2 @@
-# Event-Book-App
-MERN APP
+# Event-Booking-App
+MERN Event Booking Web App 

@@ -1,0 +1,7 @@
+{
+    "env":{
+        "MONGO_USER" : "denuke",
+        "MONGO_PASSWORD" : "denukedb",
+        "MONGO_DB" : "GraphQLDB"
+    }
+}
