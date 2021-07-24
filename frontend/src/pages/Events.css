@@ -1,0 +1,13 @@
+.events-control {
+  text-align: center;
+  border: 1.5px solid purple;
+  padding: 1rem;
+  margin: 5rem auto;
+  width: 30rem;
+  max-width: 80%;
+}
+
+.events-control button {
+  width: 30rem;
+  height: 3rem;
+}
