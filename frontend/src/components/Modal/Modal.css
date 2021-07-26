@@ -1,12 +1,12 @@
 .modal {
   /* width: 50rem; */
   /* max-width: 90%; */
-  width: 60%;
+  width: 50%;
   background: white;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.226);
   position: fixed;
   top: 20vh;
-  left: 20%;
+  left: 25%;
   /* margin: auto; */
   text-align: center;
   border-radius: 10px;
