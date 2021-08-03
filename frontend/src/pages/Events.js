@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 
 import Modal from '../components/Modal/Modal';
-import Backdrop from '../components/Backdrop/Backdrop';
+import Backdrop from '../components/Bookings/Backdrop/Backdrop';
 import EventList from '../components/Events/EventList';
 import Spinner from '../components/Spinner/Spinner';
 
