@@ -42,7 +42,7 @@ class BookingsPage extends Component {
                 }`
         }
         
-        fetch('http://localhost:8000/graphql', {
+        fetch(process.env.REACT_APP_BACKEND_URL, {
             method: 'POST',
             body: JSON.stringify(requestBody),
             headers: {
@@ -81,7 +81,7 @@ class BookingsPage extends Component {
                 id: bookingId
             }
         }
-        fetch('http://localhost:8000/graphql', {
+        fetch(process.env.REACT_APP_BACKEND_URL, {
             method: 'POST',
             body: JSON.stringify(requestBody),
             headers: {
